@@ -1,0 +1,9 @@
+{
+    "name": "interdril/slideshows-module",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Interdril\\SlideshowsModule\\": "src/"
+        }
+    }
+}

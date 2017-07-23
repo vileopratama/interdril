@@ -1,0 +1,9 @@
+{
+    "name": "interdril/starter-theme",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Interdril\\StarterTheme\\": "src/"
+        }
+    }
+}

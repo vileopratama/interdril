@@ -1,0 +1,30 @@
+<!-- Navigation -->
+{# Showing child page navigation #}
+{{ structure()
+	.linkAttributesDropdown({'data-toggle': 'dropdown'})
+	.listClass('mx-nav-menu')
+	.childListClass('sub-menu')
+	.selected_class('current-menu-item')
+	.dropdown_class('menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-45 mega-menu-main')
+	.dropdown_toggle(false)
+	.child_div_class('mega-menu mega-vertical')
+	.render()|raw }}
+<!-- Navigation -->
+<div class="mx-nav-right-container">
+	<ul>
+		<li class="mx-search-form">
+			<a href="#" class="header-search-btn"><i class="fa fa-search"></i><i class="fa fa-times-circle-o"></i></a>
+			<div class="mx-form-search">
+				<form role="search" class="searchform" method="get" action="search.html">
+					<div>
+						<input class="sf-s" name="s" type="text" placeholder="Search ..." />
+						<button type="submit" class="sf-submit btn btn-theme"><i class="fa fa-search"></i></button>
+					</div>
+				</form>
+			</div>
+		</li>
+		<li class="responsive-mobile-menu"><a href="#" class="header-responsive-menu-btn"><i class="fa fa-bars"></i></a></li>
+	</ul>
+</div>
+
+

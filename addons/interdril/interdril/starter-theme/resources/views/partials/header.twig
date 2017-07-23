@@ -1,0 +1,32 @@
+<header id="site-header" class="site-header-style-1 header-fixed-support">
+	<div id="mx-header">
+		<div class="container">
+			<div class="row">
+				<div class="mx-header-logo col-md-6 col-sm-6">
+					<div class="logo">
+						<a href="{{ url('/') }}" title="PT.INTERDRIL INDONESIA" rel="home">
+							<img class="logo-default" src="{{ image_url('theme::images/logo.png') }}" />
+							<img class="logo-retina"  src="{{ image_url('theme::images/logo.png') }}" />
+						</a>
+					</div>
+				</div>
+				<div class="mx-header-right col-md-6 col-sm-6">
+					<div class="row">
+						<div class="col-md-12 col-sm-12">
+							<ul class="mx-social social-circle inline">
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="mx-nav">
+		<div class="container">
+			<div class="mx-nav-container">
+				{% include "theme::partials/navigation" %}
+			</div>
+		</div>
+	</div>
+</header>
+

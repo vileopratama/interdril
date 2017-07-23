@@ -1,0 +1,16 @@
+{# Core Theme Components #}
+{{ asset_add("theme.js", "theme::js/vendor/jquery1.12.4.js") }}
+{{ asset_add("theme.js", "theme::js/vendor/bootstrap.min.js") }}
+{{ asset_add("theme.js", "theme::bower/js_composer/js/isotope.pkgd.min.js") }}
+
+{{ asset_add("theme.js", "theme::bower/fancybox/lib/jquery.mousewheel.pack.js") }}
+{{ asset_add("theme.js", "theme::bower/fancybox/source/jquery.fancybox.pack.js") }}
+{{ asset_add("theme.js", "theme::bower/fancybox/source/helpers/jquery.fancybox-thumbs.js") }}
+{{ asset_add("theme.js", "theme::js/vendor/vue.min.js") }}
+{{ asset_add("theme.js", "theme::js/vendor/jquery-migrate.min.js") }}
+{{ asset_add("theme.js", "theme::js/theme/jquery.theme.js") }}
+{{ asset_add("theme.js", "theme::js/theme/wp-embed.min.js") }}
+
+{{ html_script(asset_path("theme.js", ["min"])) }}
+
+
