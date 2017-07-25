@@ -1,0 +1,11 @@
+<section class="col-md-12 col-sm-12">
+	{{ page.content|raw }}
+</section>
+<div class="row" id="slide-image">
+	<div class="row mx-content center">
+        <h3 class="title"><span>{{ page.title|raw }}</span></h3>
+    </div>
+	{% for image in page.images %}
+	<div class="col-md-3 col-sm-4"><img id="{{ image.id }}" class="animate" src="{{ image.make().url() }}" data-effect="fadeInUp"/></div>
+	{% endfor %}
+</div>

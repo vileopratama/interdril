@@ -1,8 +1,308 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d02d6e-b30b-4697-aa4d-f4d7009a860c" name="Default" comment="">
+    <list default="true" id="f7dfc949-9731-4847-ae47-74de5af2a904" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/interdril.iml" afterPath="$PROJECT_DIR$/.idea/interdril.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gulpfile.js" afterPath="$PROJECT_DIR$/Gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="$PROJECT_DIR$/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/.gitkeep" afterPath="$PROJECT_DIR$/addons/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/.gitignore" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/composer.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/PartnerFactory.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/PartnerFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/ProductFactory.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/ProductFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/PromiseFactory.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/PromiseFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/ServiceFactory.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/ServiceFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/SlideshowFactory.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/factories/SlideshowFactory.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073133_interdril.module.slideshows__create_promises_stream.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073133_interdril.module.slideshows__create_promises_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073201_interdril.module.slideshows__create_services_stream.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073201_interdril.module.slideshows__create_services_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073221_interdril.module.slideshows__create_products_stream.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073221_interdril.module.slideshows__create_products_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/phpunit.xml" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/addon.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/addon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/PartnersController.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/PartnersController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/ProductsController.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/ProductsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/PromisesController.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/PromisesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/ServicesController.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/ServicesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/SlideshowsController.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Http/Controller/Admin/SlideshowsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Contract/PartnerInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Contract/PartnerInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Contract/PartnerRepositoryInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Contract/PartnerRepositoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Form/PartnerFormBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Form/PartnerFormBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerCollection.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerCriteria.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerCriteria.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerModel.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerObserver.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerObserver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerPresenter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerPresenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerRepository.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerRouter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerRouter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerSeeder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/PartnerSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Table/PartnerTableBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Partner/Table/PartnerTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Contract/ProductInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Contract/ProductInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Contract/ProductRepositoryInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Contract/ProductRepositoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Form/ProductFormBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Form/ProductFormBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductCollection.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductCriteria.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductCriteria.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductModel.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductObserver.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductObserver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductPresenter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductPresenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductRepository.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductRouter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductRouter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductSeeder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/ProductSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Table/ProductTableBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Product/Table/ProductTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Contract/PromiseInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Contract/PromiseInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Contract/PromiseRepositoryInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Contract/PromiseRepositoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Form/PromiseFormBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Form/PromiseFormBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseCollection.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseCriteria.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseCriteria.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseModel.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseObserver.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseObserver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromisePresenter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromisePresenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseRepository.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseRouter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseRouter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseSeeder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/PromiseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Table/PromiseTableBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Promise/Table/PromiseTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Contract/ServiceInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Contract/ServiceInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Contract/ServiceRepositoryInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Contract/ServiceRepositoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Form/ServiceFormBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Form/ServiceFormBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceCollection.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceCriteria.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceCriteria.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceModel.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceObserver.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceObserver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServicePresenter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServicePresenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceRepository.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceRouter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceRouter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceSeeder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/ServiceSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Table/ServiceTableBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Service/Table/ServiceTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Contract/SlideshowInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Contract/SlideshowInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Contract/SlideshowRepositoryInterface.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Contract/SlideshowRepositoryInterface.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Form/SlideshowFormBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Form/SlideshowFormBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowCollection.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowCollection.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowCriteria.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowCriteria.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowModel.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowModel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowObserver.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowObserver.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowPresenter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowPresenter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowRepository.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowRepository.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowRouter.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowRouter.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowSeeder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/SlideshowSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Table/SlideshowTableBuilder.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/Slideshow/Table/SlideshowTableBuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModule.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModule.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModuleServiceProvider.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModuleServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Feature/SlideshowsModuleTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Feature/SlideshowsModuleTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/Form/PartnerFormBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/Form/PartnerFormBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerCollectionTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerCollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerCriteriaTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerCriteriaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerModelTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerObserverTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerObserverTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerPresenterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerPresenterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerRepositoryTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerRouterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerRouterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerSeederTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/PartnerSeederTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/Table/PartnerTableBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Partner/Table/PartnerTableBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/Form/ProductFormBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/Form/ProductFormBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductCollectionTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductCollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductCriteriaTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductCriteriaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductModelTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductObserverTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductObserverTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductPresenterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductPresenterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductRepositoryTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductRouterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductRouterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductSeederTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/ProductSeederTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/Table/ProductTableBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Product/Table/ProductTableBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/Form/PromiseFormBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/Form/PromiseFormBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseCollectionTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseCollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseCriteriaTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseCriteriaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseModelTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseObserverTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseObserverTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromisePresenterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromisePresenterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseRepositoryTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseRouterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseRouterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseSeederTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/PromiseSeederTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/Table/PromiseTableBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Promise/Table/PromiseTableBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/Form/ServiceFormBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/Form/ServiceFormBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceCollectionTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceCollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceCriteriaTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceCriteriaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceModelTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceObserverTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceObserverTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServicePresenterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServicePresenterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceRepositoryTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceRouterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceRouterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceSeederTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/ServiceSeederTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/Table/ServiceTableBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Service/Table/ServiceTableBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/Form/SlideshowFormBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/Form/SlideshowFormBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowCollectionTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowCollectionTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowCriteriaTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowCriteriaTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowModelTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowModelTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowObserverTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowObserverTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowPresenterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowPresenterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowRepositoryTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowRepositoryTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowRouterTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowRouterTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowSeederTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/SlideshowSeederTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/Table/SlideshowTableBuilderTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/tests/Unit/Slideshow/Table/SlideshowTableBuilderTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/.gitignore" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/composer.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/phpunit.xml" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/CHANGELOG.md" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/README.md" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/bower.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/composer.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/fancybox.jquery.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/fancybox.jquery.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/package.json" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/fancybox/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/fonts/font-awesome/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/fonts/font-awesome/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/theme/initialize.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/theme/initialize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/bootstrap.min.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/jquery1.12.4.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/jquery1.12.4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/vue.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/vue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/vue.min.js" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/vendor/vue.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/lang/en/addon.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/lang/en/addon.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_alerts.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_alerts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_badges.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_badges.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_breadcrumbs.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_breadcrumbs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_button-groups.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_button-groups.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_carousel.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_carousel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_close.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_close.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_code.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_component-animations.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_component-animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_dropdowns.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_dropdowns.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_glyphicons.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_glyphicons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_grid.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_input-groups.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_input-groups.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_jumbotron.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_labels.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_labels.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_list-group.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_list-group.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_media.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_media.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_mixins.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_modals.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_modals.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_navbar.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_navs.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_navs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_normalize.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_normalize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_pager.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_pager.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_pagination.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_panels.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_panels.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_popovers.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_popovers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_print.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_progress-bars.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_progress-bars.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_responsive-embed.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_responsive-embed.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_responsive-utilities.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_responsive-utilities.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_scaffolding.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_scaffolding.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_tables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_theme.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_thumbnails.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_thumbnails.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_tooltip.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_tooltip.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_type.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_type.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_utilities.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_utilities.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_wells.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/_wells.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-compass.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-compass.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-mincer.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-mincer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-sprockets.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap-sprockets.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/bootstrap.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_alerts.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_alerts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_background-variant.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_border-radius.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_center-block.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_center-block.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_clearfix.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_gradients.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_grid-framework.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_grid.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_hide-text.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_hide-text.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_image.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_labels.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_labels.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_list-group.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_nav-divider.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_nav-vertical-align.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_opacity.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_opacity.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_panels.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_panels.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_progress-bar.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_progress-bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_reset-filter.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_reset-filter.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_reset-text.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_resize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_responsive-visibility.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_size.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_tab-focus.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_tab-focus.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_table-row.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_text-overflow.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_text-overflow.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_vendor-prefixes.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_animated.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_core.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_fixed-width.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_icons.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_larger.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_list.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_mixins.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_path.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_screen-reader.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_stacked.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_variables.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/font-awesome.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/font-awesome/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/_variables.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/layout/_footer.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/layout/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/layout/_main.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/layout/_main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/theme.scss" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/scss/theme/theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/default.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/default.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/assets.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/assets.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/footer.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/footer.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/header.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/header.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/messages.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/messages.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata2.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata2.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/src/StarterTheme.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/src/StarterTheme.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/src/StarterThemeServiceProvider.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/src/StarterThemeServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/tests/Feature/StarterThemeTest.php" afterPath="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/tests/Feature/StarterThemeTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.json" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/README.md" afterPath="$PROJECT_DIR$/app/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/artisan" afterPath="$PROJECT_DIR$/artisan" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/app.php" afterPath="$PROJECT_DIR$/bootstrap/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/autoload.php" afterPath="$PROJECT_DIR$/bootstrap/autoload.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/auth.php" afterPath="$PROJECT_DIR$/config/auth.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/broadcasting.php" afterPath="$PROJECT_DIR$/config/broadcasting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/cache.php" afterPath="$PROJECT_DIR$/config/cache.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/compile.php" afterPath="$PROJECT_DIR$/config/compile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/database.php" afterPath="$PROJECT_DIR$/config/database.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/debugbar.php" afterPath="$PROJECT_DIR$/config/debugbar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/filesystems.php" afterPath="$PROJECT_DIR$/config/filesystems.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/image.php" afterPath="$PROJECT_DIR$/config/image.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/mail.php" afterPath="$PROJECT_DIR$/config/mail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/queue.php" afterPath="$PROJECT_DIR$/config/queue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/scout.php" afterPath="$PROJECT_DIR$/config/scout.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/services.php" afterPath="$PROJECT_DIR$/config/services.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/session.php" afterPath="$PROJECT_DIR$/config/session.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/streams.php" afterPath="$PROJECT_DIR$/config/streams.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/twigbridge.php" afterPath="$PROJECT_DIR$/config/twigbridge.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/view.php" afterPath="$PROJECT_DIR$/config/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nginx_app.conf" afterPath="$PROJECT_DIR$/nginx_app.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpunit.xml" afterPath="$PROJECT_DIR$/phpunit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.php" afterPath="$PROJECT_DIR$/server.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,13 +311,76 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="artisan" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/artisan">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="SlideshowsModule.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addon.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/addon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="button.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/button.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="field.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/field.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="750">
+              <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -25,8 +388,45 @@
       </file>
     </leaf>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#main</find>
+      <find>-</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/mobile/navigation.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/footer.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/meta-icon.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/macro.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/links.twig" />
+        <option value="$PROJECT_DIR$/core/anomaly/pages-module/resources/views/macro.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/stylesheet.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/scripts.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/home.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/page.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/header.twig" />
+        <option value="$PROJECT_DIR$/core/anomaly/pages-module/resources/views/structure.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/default.twig" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/light.css" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073221_interdril.module.slideshows__create_products_stream.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073133_interdril.module.slideshows__create_promises_stream.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073201_interdril.module.slideshows__create_services_stream.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModule.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModuleServiceProvider.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/addon.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/button.php" />
+        <option value="$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/field.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
@@ -41,12 +441,134 @@
     </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/misd/linkify" />
+      <path value="$PROJECT_DIR$/vendor/asm89/twig-cache-extension" />
+      <path value="$PROJECT_DIR$/vendor/leafo/scssphp" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phive/twig-extensions-deferred" />
+      <path value="$PROJECT_DIR$/vendor/aptoma/twig-markdown" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem-cached-adapter" />
+      <path value="$PROJECT_DIR$/vendor/meenie/javascript-packer" />
+      <path value="$PROJECT_DIR$/vendor/natxet/CssMin" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/nochso/html-compress-twig" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/rcrowe/twigbridge" />
+      <path value="$PROJECT_DIR$/vendor/roumen/sitemap" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/anomaly/streams-platform" />
+      <path value="$PROJECT_DIR$/vendor/anomaly/streams-composer-plugin" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/envoy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/scout" />
+      <path value="$PROJECT_DIR$/vendor/linkorb/jsmin-php" />
+      <path value="$PROJECT_DIR$/vendor/michelf/php-markdown" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nicmart/string-template" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/class-loader" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/teamtnt/laravel-scout-tntsearch-driver" />
+      <path value="$PROJECT_DIR$/vendor/teamtnt/tntsearch" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/lmammino/jsmin4assetic" />
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/nategood/httpful" />
+      <path value="$PROJECT_DIR$/vendor/oyejorge/less.php" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/patchwork/jsqueeze" />
+      <path value="$PROJECT_DIR$/vendor/ptachoire/cssembed" />
+      <path value="$PROJECT_DIR$/vendor/robclancy/presenter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/simplepie/simplepie" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/websharks/css-minifier" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/jeremeamia/SuperClosure" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/wyrihaximus/html-compress" />
+      <path value="$PROJECT_DIR$/vendor/coffeescript/coffeescript" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/websemantics/lcss2php" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/kriswallsmith/assetic" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/exceptions" />
+      <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="260" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="941" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1849" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -63,7 +585,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,23 +595,86 @@
             </path>
             <path>
               <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
-              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slideshows-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slideshows-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slideshows-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slideshows-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lang" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="en" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="addons" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slideshows-module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="interdril" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interdril" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Apps/nodejs/node" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -103,45 +688,121 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d8d02d6e-b30b-4697-aa4d-f4d7009a860c" name="Default" comment="" />
-      <created>1500796386499</created>
+      <changelist id="f7dfc949-9731-4847-ae47-74de5af2a904" name="Default" comment="" />
+      <created>1500350919735</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1500796386499</updated>
-      <workItem from="1500796387785" duration="415000" />
+      <updated>1500350919735</updated>
+      <workItem from="1500350923221" duration="657000" />
+      <workItem from="1500363174601" duration="6596000" />
+      <workItem from="1500430558086" duration="43000" />
+      <workItem from="1500431258992" duration="15357000" />
+      <workItem from="1500522915074" duration="636000" />
+      <workItem from="1500607631831" duration="3338000" />
+      <workItem from="1500623560246" duration="1966000" />
+      <workItem from="1500871829875" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="415000" />
+    <option name="totallyTimeSpent" value="28618000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="43" width="1400" height="941" extended-state="0" />
+    <frame x="-11" y="-11" width="1849" height="1084" extended-state="0" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33223864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291714" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +816,361 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/artisan">
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/stylesheet.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/meta-icon.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/default.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata2.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/page.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/footer.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/mobile/navigation.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="58" lean-forward="false" selection-start-line="26" selection-start-column="58" selection-end-line="26" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/stylesheet.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/meta-icon.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/resources/views/posts/view.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/resources/views/posts/partials/posts.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/posts-module/resources/views/posts/index.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/links.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/footer.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="47" column="6" lean-forward="false" selection-start-line="47" selection-start-column="6" selection-end-line="47" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/meta-icon.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/assets.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata2.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/js/theme/jquery.theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/stylesheet.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="37" lean-forward="false" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/scripts.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/home.twig" />
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="42" lean-forward="false" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/macro.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="65" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/pages-module/resources/views/structure.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="78" lean-forward="false" selection-start-line="2" selection-start-column="78" selection-end-line="2" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/mobile/navigation.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/anomaly/pages-module/resources/views/macro.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="10" lean-forward="false" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/navigation.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/bower/js_composer/css/vc_lte_ie9.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/mx-styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1475">
+          <caret line="59" column="6" lean-forward="false" selection-start-line="59" selection-start-column="6" selection-end-line="59" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/page.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/layouts/default.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/light.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14125">
+          <caret line="565" column="45" lean-forward="false" selection-start-line="565" selection-start-column="45" selection-end-line="565" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/views/partials/metadata.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/starter-theme/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="105" column="67" lean-forward="false" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_19_044435_interdril.module.slideshows__create_slideshows_fields.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="37" lean-forward="false" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073012_interdril.module.slideshows__create_slideshows_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073234_interdril.module.slideshows__create_partners_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073221_interdril.module.slideshows__create_products_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModuleServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="73" column="40" lean-forward="true" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073201_interdril.module.slideshows__create_services_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="40" column="36" lean-forward="true" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/migrations/2017_07_21_073133_interdril.module.slideshows__create_promises_stream.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-500">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/src/SlideshowsModule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/addon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/button.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons/interdril/interdril/slideshows-module/resources/lang/en/field.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>
